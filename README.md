@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on my Portfolio Website😁
 - 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers 😉
-- 🥅 2022 Goals : Contribute to Open Source projects
+- 🥅 2024 Goals : Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help 😄
 - 📬 How to reach me: <a href="https://linkedin.com/in/nikhil-chikhalkar/" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
