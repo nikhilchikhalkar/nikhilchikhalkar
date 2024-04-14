@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/nikhil-chikhalkar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://drive.google.com/file/d/1LwduaMarN-09trP-EJ4uBvz9QJmnp_59/view?usp=drive_link" target="_blank" >
+ <a href="https://drive.google.com/file/d/1DMnO10f9igoq0KmvrO1KdeeDmFrPowD7/view?usp=sharing" target="_blank" >
 RESUME 
 </a>
 
